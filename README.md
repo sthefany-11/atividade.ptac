@@ -1,19 +1,34 @@
-# React + Vite
+gOrganizador de Ideias
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Apresentação
 
-Currently, two official plugins are available:
+O Organizador de Ideias é uma aplicação web criada com React e Vite. Seu objetivo é permitir que o usuário registre suas ideias e acompanhe quais já foram realizadas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O que o sistema faz
 
-## React Compiler
+* Adiciona ideias por meio de um formulário.
+* Impede o cadastro de textos vazios.
+* Permite marcar uma ideia como concluída.
+* Permite excluir ideias cadastradas.
+* Atualiza o contador de ideias e de tarefas concluídas.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Ferramentas utilizadas
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+* JavaScript
+* React
+* Vite
+* CSS
 
-## Expanding the ESLint configuration
+Execução do projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Para executar a aplicação, abra o terminal na pasta do projeto e rode os comandos:
+
+npm install
+
+npm run dev
+
+Em seguida, abra no navegador o endereço local indicado pelo Vite.
+
+Aprendizado
+
+A atividade utiliza conceitos de componentes, useState, eventos, formulários controlados e métodos de arrays, como map() e filter().
