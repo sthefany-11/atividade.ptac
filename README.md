@@ -13,7 +13,7 @@ O que o sistema faz
 * Atualiza o contador de ideias e de tarefas concluídas.
 
 Ferramentas utilizadas
-
+ 
 * JavaScript
 * React
 * Vite
