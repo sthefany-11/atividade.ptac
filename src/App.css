@@ -1,7 +1,7 @@
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-background: #9a105c;
+background: #505ab7;
 color: #292344;
 }
 
@@ -9,13 +9,13 @@ color: #292344;
 max-width: 600px;
 margin: 60px auto;
 padding: 30px;
-background: rgb(69, 103, 119);
+background: rgb(251, 249, 249);
 border-radius: 16px;
 box-shadow: 0 4px 20px #00000015;
 }
 
 h1 {
-color: #be1616;
+color: #4e44b1;
 }
 
 form {
@@ -28,7 +28,7 @@ form input {
 flex: 1;
 min-width: 0;
 padding: 12px;
-border: 1px solid #342f7e;
+border: 1px solid #46418d;
 border-radius: 8px;
 }
 
@@ -37,7 +37,7 @@ padding: 10px 14px;
 border: none;
 border-radius: 8px;
 background: #160d2b;
-color: rgb(204, 20, 20);
+color: rgb(41, 89, 147);
 cursor: pointer;
 }
 
@@ -64,11 +64,11 @@ overflow-wrap: anywhere;
 
 .concluida {
 text-decoration: line-through;
-color: #888;
+color: #3f46d8;
 }
 
 .erro {
-color: #d93025;
+color: #259ad9;
 }
 
 footer {
