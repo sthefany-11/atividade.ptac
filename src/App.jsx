@@ -43,7 +43,7 @@ function App() {
 
   return (
     <main className="painel">
-      <h1>Painel de Ideiass </h1>
+      <h1>Painel de Ideias.</h1>
       <p>Organize suas ideias em um só lugar!</p>
 
       <form onSubmit={aoAdicionar}>

@@ -1,7 +1,7 @@
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-background: #f1efff;
+background: #9a105c;
 color: #292344;
 }
 
@@ -9,13 +9,13 @@ color: #292344;
 max-width: 600px;
 margin: 60px auto;
 padding: 30px;
-background: white;
+background: rgb(69, 103, 119);
 border-radius: 16px;
 box-shadow: 0 4px 20px #00000015;
 }
 
 h1 {
-color: #6941c6;
+color: #be1616;
 }
 
 form {
@@ -28,7 +28,7 @@ form input {
 flex: 1;
 min-width: 0;
 padding: 12px;
-border: 1px solid #ccc;
+border: 1px solid #342f7e;
 border-radius: 8px;
 }
 
@@ -37,7 +37,7 @@ padding: 10px 14px;
 border: none;
 border-radius: 8px;
 background: #160d2b;
-color: white;
+color: rgb(204, 20, 20);
 cursor: pointer;
 }
 
